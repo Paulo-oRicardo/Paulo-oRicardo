@@ -1,4 +1,4 @@
-# Hi, I'm Paulo 👋🏼 👨🏻‍💻
+# Oi, Eu sou o Paulo 🖖🏼 👨🏻‍💻
 
   ## 🧑🏻 Sobre mim
  Estou Finalizando o intensivo de Desenvolvimento Web Full-Stack na [Resilia Educação](https://www.resilia.work/), procuro vagas de Desenvolvedor Web full-stack Jr. No momento faço algumas projetos e aprendendo cada vez mais Reactjs e Nodejs.
