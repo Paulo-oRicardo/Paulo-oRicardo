@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi, I'm Paulo 👋🏼 👨🏻‍💻
+
+  ## 🧑🏻 Sobre mim
+ Estou Finalizando o intensivo de Desenvolvimento Web Full-Stack na [Resilia Educação](https://www.resilia.work/), procuro vagas de Desenvolvedor Web full-stack Jr. No momento faço algumas projetos e aprendendo cada vez mais Reactjs e Nodejs.
+  
+   [![card](https://github-readme-stats.vercel.app/api?username=Paulo-oRicardo&theme=highcontrast)](https://github.com/Paulo-oRicardo/) 
+   
+   [![Paulo_oRicardo](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-oRicardo&hide=html&layout=compact&theme=highcontrast)](https://github.com/Paulo_oRicardo/)
+   
+   ### 🌎 Onde pode me encontrar na web:
+   - Atualizações no:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/paulo-yokoyama/)
+   - Trabalhando em um blog...
+  
 
 <!--
 **Paulo-oRicardo/Paulo-oRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
