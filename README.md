@@ -1,10 +1,9 @@
 # Oi, Eu sou o Paulo 🖖🏼 👨🏻‍💻
 
-  ## 🧑🏻 Sobre mim
- Estou Finalizando o intensivo de Desenvolvimento Web Full-Stack na [Resilia Educação](https://www.resilia.work/), procuro vagas de Desenvolvedor Web full-stack Jr. No momento faço algumas projetos e aprendendo cada vez mais Reactjs e Nodejs.
+  ## <img src="https://github.com/Paulo-oRicardo/Paulo-oRicardo/blob/main/card-gitbub.png" alt="DEsenvolvedor web full-stack Jr.">
   
-   [![card](https://github-readme-stats.vercel.app/api?username=Paulo-oRicardo&theme=highcontrast)](https://github.com/Paulo-oRicardo/) 
    
+   [![card](https://github-readme-stats.vercel.app/api?username=Paulo-oRicardo&theme=highcontrast)](https://github.com/Paulo-oRicardo/) 
    [![Paulo_oRicardo](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-oRicardo&hide=html&layout=compact&theme=highcontrast)](https://github.com/Paulo_oRicardo/)
    
    ### 🌎 Onde pode me encontrar na web:
