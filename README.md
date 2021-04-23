@@ -1,8 +1,7 @@
 # Oi, Eu sou o Paulo 🖖🏼 👨🏻‍💻
 
-  ## <img src="https://github.com/Paulo-oRicardo/Paulo-oRicardo/blob/main/card-gitbub.png" alt="DEsenvolvedor web full-stack Jr.">
+  ## <img src="https://github.com/Paulo-oRicardo/Paulo-oRicardo/blob/main/profile-gitbub.PNG" alt="DEsenvolvedor web full-stack Jr.">
   
-   
    [![card](https://github-readme-stats.vercel.app/api?username=Paulo-oRicardo&theme=highcontrast)](https://github.com/Paulo-oRicardo/) 
    [![Paulo_oRicardo](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-oRicardo&hide=html&layout=compact&theme=highcontrast)](https://github.com/Paulo_oRicardo/)
    
